@@ -1,0 +1,69 @@
+.block-1
+{
+    position: absolute;
+    width: 400px;
+    height: 475px;
+    background-color: white;
+    box-shadow: 2px 1px 10px 1px grey;
+    margin-left: 104px;
+    margin-top: 121px;
+    background: radial-gradient(black, transparent);
+}
+.uname
+{
+    width: 234px;
+    margin-left: 89px;
+    height: 41px;
+    margin-top: 52px;
+}
+.phone
+{
+    width: 234px;
+    margin-left: 89px;
+    height: 41px;   
+    margin-top: 25px;
+}
+.email
+{
+    width: 234px;
+    margin-left: 89px;
+    height: 41px; 
+    margin-top: 32px; 
+}
+.button
+{
+    margin-left: 141px;
+    width: 126px;
+    margin-top: 26px;
+    height: 39px;
+}
+.img
+{
+    position: absolute;
+    height: 657px;
+}
+.reg
+{
+    font-family:"times new roman";
+    font-size: 32px;
+    margin-left: 148px;
+    margin-top: 40px;
+    color: white;
+}
+.user
+{
+    position: absolute;
+    margin-left: -192px;
+    margin-top: 154px;
+}
+.phonee
+{
+    position: absolute;
+    margin-left: 67px;
+    margin-top: 12px;
+}
+.envelope{
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 32px;
+}
